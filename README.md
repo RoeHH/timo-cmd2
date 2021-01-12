@@ -1,4 +1,4 @@
-### Timo Sarkar 
+### 🦄 Timo Sarkar 
 
 <!--
 **timo-cmd2/timo-cmd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages im currently learning: swift, crystal, kotlin, dart
+👨🏻‍💻 Languages im currently learning: swift, crystal, kotlin, dart
 
-Languages is know well: Node.js, C/C++, Golang, Lua, Ruby, Julia, Elixir/Erlang and Elm
+💪🏻 Languages is know well: Node.js, C/C++, Golang, Lua, Ruby, Julia, Elixir/Erlang and Elm
+
+
+####😎 About me
+
+Im a 16years old little dev doing a system engineer apprenticeship. Im highly focused and specialized on compiler-construction, os-dev and blockchain 
+
