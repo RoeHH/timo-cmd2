@@ -1,4 +1,9 @@
+
+
+
 ### 🦄 Timo Sarkar 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd2" alt="timo-cmd2" /> </p> 
 
 <!--
 **timo-cmd2/timo-cmd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
