@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💪🏻 Languages is know well: Node.js, C/C++, Golang, Lua, Ruby, Julia, Elixir/Erlang and Elm
 
 
-####😎 About me
+#### 😎 About me
 
 Im a 16years old little dev doing a system engineer apprenticeship. Im highly focused and specialized on compiler-construction, os-dev and blockchain 
 
