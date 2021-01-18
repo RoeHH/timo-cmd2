@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻 Languages im currently learning: swift, crystal, kotlin, dart, Verilog/VHDL and Zig
+👨🏻‍💻 Languages im currently learning: swift, crystal, kotlin, dart, Verilog/VHDL, Zig and Ada
 
 💪🏻 Languages is know well: Node.js, C/C++, Golang, Lua, Ruby, Julia, Elixir/Erlang and Elm
 
