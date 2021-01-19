@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 💪🏻 Interests:
+
+- Bioinformatics 
+- Computiational informatics
+- Microorganism
+- Physics
+- Heterogeneous compilers
+- Compilers
+- and more...
 
 👨🏻‍💻 Languages im currently learning: swift, crystal, kotlin, dart, Verilog/VHDL, Zig and Ada
 
