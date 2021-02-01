@@ -41,7 +41,7 @@ The projects I maintain the most, are:
 
 - Igel: A Clojure'ish Lisp-dialect influenced by VHDL
 - Bentō: A smart Blockchain environment written in Swift5 
-- RoseOS: A small os kernel for booting a x86 iso
+- Kabuki: A small os kernel for booting a x86 iso
 - Lovelace: A Lisp'ish compiler with optional Ada FFI
 
 🍭 Some of my Toy projects are:
