@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - Microorganism
 - Physics
 - Heterogeneous compilers
-- Compilers
 - and more...
 
 👨🏻‍💻 Languages im currently learning: swift, crystal, kotlin, dart, Verilog/VHDL, Zig and Ada
@@ -40,16 +39,13 @@ Im a 16years old little dev doing a system engineer apprenticeship. Im highly fo
 The projects I maintain the most, are: 
 
 - Igel: A Clojure'ish Lisp-dialect influenced by VHDL
-- Bentō: A smart Blockchain environment written in Swift5 
+- Kimono: A smart Blockchain environment written in C++
 - Kabuki: A small os kernel for booting a x86 iso
-- Lovelace: A Lisp'ish compiler with optional Ada FFI
+- Whisper: A privacy focused messenger platform
 
 🍭 Some of my Toy projects are:
-
-- Wookie: A small Lisp interpreter that is intended to be written in Zig
-- Bfasm: A brainf**k compiler into tiny x86 nasm
-- Whirl: A small turning-tarpit esolang based on '0' and '1'
-- Rune: A funny programming language based on Braille symbols represented as UTF-8 Unicode
+- Lightpod: A lightweight shiny text editor for the macOS
+- Taboo: A privacy-focused, secure web-browser written in Swift5
 
 
 2nd account of timo-cmd
