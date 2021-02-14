@@ -9,6 +9,7 @@
 - Founder of the Kimono network
 - Mantainer and contributer of the Monero-project
 - Hobby Lisper and compiler enthusiast
+- Lives in Switzerland ZG
 
 <!--
 **timo-cmd2/timo-cmd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
