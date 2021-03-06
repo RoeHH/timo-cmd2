@@ -42,16 +42,3 @@ Here are some ideas to get you started:
 #### 😎 About me
 
 Im a 16years old little dev doing a system engineer apprenticeship. Im highly focused and specialized on compiler-construction, os-dev and blockchain.
-The projects I maintain the most, are: 
-
-- Igel: A Clojure'ish Lisp-dialect influenced by VHDL
-- Kimono: A smart Blockchain environment written in C++
-- Kabuki: A small os kernel for booting a x86 iso
-- Whisper: A privacy focused messenger platform
-
-🍭 Some of my Toy projects are:
-- Lightpod: A lightweight shiny text editor for the macOS
-- Taboo: A privacy-focused, secure web-browser written in Swift5
-
-
-2nd account of timo-cmd
