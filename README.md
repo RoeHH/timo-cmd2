@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - Heterogeneous compilers
 - and more...
 
-👨🏻‍💻 Languages im currently learning: swift, crystal, kotlin, dart, Verilog/VHDL, Zig and Ada
+👨🏻‍💻 Languages im currently learning: **Smalltalk, Newspeak and Prolog**
 
-💪🏻 Languages is know well: Node.js, C/C++, Golang, Lua, Ruby, Julia, Elixir/Erlang and Elm
+💪🏻 Languages is know well: Node.js, C/C++, Golang, Lua, Ruby, Java, Julia, Elixir/Erlang and Elm
 
 
 #### 😎 About me
