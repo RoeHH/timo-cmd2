@@ -9,7 +9,7 @@
 - Founder of: Kimono network, Whisper, Whaleguard, Betaflight and many other open-source projects
 - Mantainer and contributer of the Monero-project
 - Hobby Lisper and compiler enthusiast
-- Lives in Switzerland ZG
+- Lives in Switzerland
 
 <!--
 **timo-cmd2/timo-cmd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
