@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 #### 😎 About me
 
 Im a 16years old little dev doing a system engineer apprenticeship. Im highly focused and specialized on compiler-construction, os-dev and blockchain.
+
+I am a **big fan** of *Bluetooth low energy tech, IoT, UAV* and many others.
