@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd2" alt="timo-cmd2" /> </p> 
 
+## ctrl+c ctrl+v
 
 - Founder of: Kimono network, Whisper, Whaleguard, Betaflight and many other open-source projects
 - Mantainer and contributer of the Monero-project
